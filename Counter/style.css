@@ -1,0 +1,84 @@
+body{
+    background-color: aqua;
+}
+
+.header{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.header h1{
+    position: absolute;
+    align-content: center;
+    margin-left: 33rem;
+    font-size: 5rem;
+    color: rgb(20, 112, 48);
+    
+}
+.header .input-btn{
+    position: absolute;
+    margin-left: 34.5rem;
+    top: 11rem;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    font-size: 7rem;
+    font-weight: 700;
+    width: 15rem;
+    height: 10rem;
+    border: solid green 5px;
+}
+
+.header .button{
+    position: absolute;
+    margin-left: 34.7rem;   
+    margin-top: 22rem;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.header .button .btn1{
+    border: solid black 1px;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: rgb(250, 240, 240);
+    color: red;
+}
+
+.header .button .btn1:hover{
+    background-color: green;
+    color: aliceblue;
+    cursor: pointer;
+    
+}
+.header .button .btn2{
+    border: solid black 1px;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: rgb(250, 240, 240);
+    color: red;
+}
+
+.header .button .btn2:hover{
+    background-color: green;
+    color: aliceblue;
+    cursor: pointer;
+    
+}
+.header .button .btn3{
+    border: solid black 1px;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: rgb(250, 240, 240);
+    color: red;
+}
+
+.header .button .btn3:hover{
+    background-color: green;
+    color: aliceblue;
+    cursor: pointer;
+    
+}
